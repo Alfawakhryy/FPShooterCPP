@@ -1,1 +1,2 @@
-# ConsoleApplication1
+A First Person Shooter at the command line
+MS Windows!
